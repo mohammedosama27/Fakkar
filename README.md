@@ -1,7 +1,7 @@
 # Fakkr | فكر فيها
 A graduation project of DEPI round4 (Digital marketing track)
 
-Team members: 
+# Team members: 
 ├── Hosny Hany (Team leader) 
 ├── Amr Assem 
 ├── Mohammed Osama
