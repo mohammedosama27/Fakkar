@@ -2,9 +2,9 @@
 A graduation project of DEPI round4 (Digital marketing track)
 
 Team members: 
-├── Mohammed Osama (Team leader) 
+├── Hosny Hany (Team leader) 
 ├── Amr Assem 
-├── Hosny Hany 
+├── Mohammed Osama
 ├── Verina Khairy 
 ├── Nancy kamal 
 └── Fahd Abd Elnaby
