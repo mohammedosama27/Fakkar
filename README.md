@@ -1,4 +1,4 @@
-# Fakkr | فكر تاني
+# Fakkr | فكر فيها
 A graduation project of DEPI round4 (Digital marketing track)
 
 Team members: 
